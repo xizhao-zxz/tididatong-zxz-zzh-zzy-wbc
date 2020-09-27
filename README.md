@@ -1,4 +1,4 @@
-# gitskills
+# gitskill
 
 哈哈哈，再试验一下。
 太神奇了
